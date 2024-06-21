@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPBaiThiLai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdb48bf929ce765b25a24b01a68375f5da60aec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d3578c82ff92ba699bc47daa2259cb411d3314")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPBaiThiLai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPBaiThiLai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
